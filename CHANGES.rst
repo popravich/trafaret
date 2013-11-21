@@ -1,6 +1,14 @@
 Changes
 =======
 
+2013-11-21
+----------
+
+Missing trafarets added to ``__all__`` list.
+Check for no trafaret added in ``Forward`` trafaret.
+``Key`` trafaret default value may be ``None`` now.
+Few tests added.
+
 2012-05-30
 ----------
 
